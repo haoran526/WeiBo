@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "46E0A8BD06189F336C3D52E2E44F4460DCB5ED2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05071DD45C4ACDFD5D45DE792257A3A44023E7A7" : 0,
+    "46E0A8BD06189F336C3D52E2E44F4460DCB5ED2E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A11E17D5-E494-42CA-9B30-EDF53E5B1B57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05071DD45C4ACDFD5D45DE792257A3A44023E7A7" : "",
+    "46E0A8BD06189F336C3D52E2E44F4460DCB5ED2E" : "WeiBo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HHWeiBo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HHWeiBo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:MichaelHui\/WeiBo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05071DD45C4ACDFD5D45DE792257A3A44023E7A7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haoran526\/WeiBo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46E0A8BD06189F336C3D52E2E44F4460DCB5ED2E"
+    }
+  ]
+}
